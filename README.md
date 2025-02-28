@@ -25,7 +25,7 @@ KAITO Smart Money Analytics is an advanced cryptocurrency analysis platform desi
 - **Correlation Metrics**: Identify decoupling and recoupling patterns between assets
 
 ### 🌐 Sentiment Intelligence
-- **Multi-Source Sentiment Analysis**: Aggregate and analyze sentiment from Twitter, Reddit, and other platforms
+- **Multi-Source Sentiment Analysis**: Aggregate and analyze sentiment from X, Farcaster, BlueSky, Reddit and other platforms
 - **Sentiment Divergence Alerts**: Detect when social sentiment diverges from price action
 - **NLP-Powered Topic Extraction**: Understand what's driving the conversation around KAITO
 
