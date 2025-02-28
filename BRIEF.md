@@ -186,5 +186,5 @@ The KAITO Analytics Platform presents a compelling investment opportunity:
 ## Contact Information
 
 For project inquiries, partnership opportunities, or investment discussions:
-- Email: your.email@example.com
-- GitHub: https://github.com/yourusername/kaito-analytics
+- Email: vividvisions.ai@gmail.com
+- GitHub: https://github.com/KingRaver/predict
