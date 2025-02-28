@@ -116,7 +116,7 @@ The current system consists of several key components:
 The project is organized into the following directories:
 
 ```
-malay/
+predict/
 │
 ├── data/                       # Data directory
 │   └── crypto_history.db       # SQLite database
