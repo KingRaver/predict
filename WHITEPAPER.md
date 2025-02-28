@@ -2,7 +2,7 @@
 
 **Technical Whitepaper v1.0**
 
-*Authors: [Jeff Spirlock] and [Vivid Visions]*
+*Authors: Jeff Spirlock and Vivid Visions*
 
 *Last Updated: February 28, 2025*
 
